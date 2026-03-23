@@ -1,0 +1,40 @@
+body {
+    font-family: Arial;
+    background: #0f172a;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.container {
+    width: 600px;
+    text-align: center;
+}
+
+input {
+    width: 80%;
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    margin: 10px 0;
+}
+
+button {
+    padding: 10px;
+    background: #22c55e;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+#result, #history {
+    margin-top: 20px;
+}
+
+.link {
+    background: #1e293b;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
+}
